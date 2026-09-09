@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Ana",
+    "age": 24,
+    "watched": [
+      "Corra!",
+      "Hereditário",
+      "Invocação do Mal",
+      "Um Lugar Silencioso",
+      "It: A Coisa"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno",
+    "age": 31,
+    "watched": [
+      "Interestelar",
+      "A Origem",
+      "Blade Runner 2049",
+      "Chegada",
+      "Duna",
+      "Ex Machina"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carla",
+    "age": 27,
+    "watched": [
+      "La La Land",
+      "Diário de uma Paixão",
+      "500 Dias com Ela",
+      "Questão de Tempo"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego",
+    "age": 20,
+    "watched": [
+      "Vingadores: Ultimato",
+      "John Wick",
+      "Top Gun: Maverick",
+      "Homem-Aranha: Sem Volta para Casa",
+      "Mad Max: Estrada da Fúria"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elisa",
+    "age": 35,
+    "watched": [
+      "O Poderoso Chefão",
+      "Pulp Fiction",
+      "Os Infiltrados",
+      "Cidade de Deus",
+      "Seven: Os Sete Crimes Capitais",
+      "O Lobo de Wall Street"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Felipe",
+    "age": 12,
+    "watched": [
+      "Toy Story",
+      "Divertida Mente",
+      "Procurando Nemo",
+      "Shrek",
+      "Encanto"
+    ]
+  }
+]

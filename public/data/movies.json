@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "O Poderoso Chefão",
+    "year": 1972,
+    "genre": "crime",
+    "duration": 175,
+    "rating": 9.2
+  },
+  {
+    "id": 2,
+    "title": "Interestelar",
+    "year": 2014,
+    "genre": "ficção científica",
+    "duration": 169,
+    "rating": 8.7
+  },
+  {
+    "id": 3,
+    "title": "Parasita",
+    "year": 2019,
+    "genre": "suspense",
+    "duration": 132,
+    "rating": 8.5
+  },
+  {
+    "id": 4,
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "animação",
+    "duration": 81,
+    "rating": 8.3
+  },
+  {
+    "id": 5,
+    "title": "Cidade de Deus",
+    "year": 2002,
+    "genre": "crime",
+    "duration": 130,
+    "rating": 8.6
+  },
+  {
+    "id": 6,
+    "title": "Matrix",
+    "year": 1999,
+    "genre": "ficção científica",
+    "duration": 136,
+    "rating": 8.7
+  },
+  {
+    "id": 7,
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "year": 2001,
+    "genre": "aventura",
+    "duration": 178,
+    "rating": 8.9
+  },
+  {
+    "id": 8,
+    "title": "Clube da Luta",
+    "year": 1999,
+    "genre": "drama",
+    "duration": 139,
+    "rating": 8.8
+  },
+  {
+    "id": 9,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "crime",
+    "duration": 154,
+    "rating": 8.9
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "drama",
+    "duration": 142,
+    "rating": 8.8
+  },
+  {
+    "id": 11,
+    "title": "O Silêncio dos Inocentes",
+    "year": 1991,
+    "genre": "suspense",
+    "duration": 118,
+    "rating": 8.6
+  },
+  {
+    "id": 12,
+    "title": "Gladiador",
+    "year": 2000,
+    "genre": "ação",
+    "duration": 155,
+    "rating": 8.5
+  },
+  {
+    "id": 13,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "romance",
+    "duration": 194,
+    "rating": 7.9
+  },
+  {
+    "id": 14,
+    "title": "Vingadores: Ultimato",
+    "year": 2019,
+    "genre": "ação",
+    "duration": 181,
+    "rating": 8.4
+  },
+  {
+    "id": 15,
+    "title": "Coringa",
+    "year": 2019,
+    "genre": "drama",
+    "duration": 122,
+    "rating": 8.4
+  },
+  {
+    "id": 16,
+    "title": "Um Sonho de Liberdade",
+    "year": 1994,
+    "genre": "drama",
+    "duration": 142,
+    "rating": 9.3
+  },
+  {
+    "id": 17,
+    "title": "A Origem",
+    "year": 2010,
+    "genre": "ficção científica",
+    "duration": 148,
+    "rating": 8.8
+  },
+  {
+    "id": 18,
+    "title": "Django Livre",
+    "year": 2012,
+    "genre": "faroeste",
+    "duration": 165,
+    "rating": 8.5
+  },
+  {
+    "id": 19,
+    "title": "O Rei Leão",
+    "year": 1994,
+    "genre": "animação",
+    "duration": 88,
+    "rating": 8.5
+  },
+  {
+    "id": 20,
+    "title": "De Volta para o Futuro",
+    "year": 1985,
+    "genre": "ficção científica",
+    "duration": 116,
+    "rating": 8.5
+  },
+  {
+    "id": 21,
+    "title": "Alien, o Oitavo Passageiro",
+    "year": 1979,
+    "genre": "terror",
+    "duration": 117,
+    "rating": 8.5
+  },
+  {
+    "id": 22,
+    "title": "O Iluminado",
+    "year": 1980,
+    "genre": "terror",
+    "duration": 146,
+    "rating": 8.4
+  },
+  {
+    "id": 23,
+    "title": "Psicose",
+    "year": 1960,
+    "genre": "terror",
+    "duration": 109,
+    "rating": 8.5
+  },
+  {
+    "id": 24,
+    "title": "Corra!",
+    "year": 2017,
+    "genre": "terror",
+    "duration": 104,
+    "rating": 7.8
+  },
+  {
+    "id": 25,
+    "title": "Hereditário",
+    "year": 2018,
+    "genre": "terror",
+    "duration": 127,
+    "rating": 7.3
+  },
+  {
+    "id": 26,
+    "title": "Invocação do Mal",
+    "year": 2013,
+    "genre": "terror",
+    "duration": 112,
+    "rating": 7.5
+  },
+  {
+    "id": 27,
+    "title": "It: A Coisa",
+    "year": 2017,
+    "genre": "terror",
+    "duration": 135,
+    "rating": 7.3
+  },
+  {
+    "id": 28,
+    "title": "Um Lugar Silencioso",
+    "year": 2018,
+    "genre": "terror",
+    "duration": 90,
+    "rating": 7.5
+  },
+  {
+    "id": 29,
+    "title": "O Exorcista",
+    "year": 1973,
+    "genre": "terror",
+    "duration": 122,
+    "rating": 8.1
+  },
+  {
+    "id": 30,
+    "title": "Halloween",
+    "year": 1978,
+    "genre": "terror",
+    "duration": 91,
+    "rating": 7.7
+  },
+  {
+    "id": 31,
+    "title": "Se Beber, Não Case!",
+    "year": 2009,
+    "genre": "comédia",
+    "duration": 100,
+    "rating": 7.7
+  },
+  {
+    "id": 32,
+    "title": "Superbad",
+    "year": 2007,
+    "genre": "comédia",
+    "duration": 113,
+    "rating": 7.6
+  },
+  {
+    "id": 33,
+    "title": "Quase Famosos",
+    "year": 2000,
+    "genre": "comédia",
+    "duration": 122,
+    "rating": 7.9
+  },
+  {
+    "id": 34,
+    "title": "As Branquelas",
+    "year": 2004,
+    "genre": "comédia",
+    "duration": 109,
+    "rating": 6.6
+  },
+  {
+    "id": 35,
+    "title": "Todo Mundo em Pânico",
+    "year": 2000,
+    "genre": "comédia",
+    "duration": 88,
+    "rating": 6.2
+  },
+  {
+    "id": 36,
+    "title": "O Máskara",
+    "year": 1994,
+    "genre": "comédia",
+    "duration": 101,
+    "rating": 6.9
+  },
+  {
+    "id": 37,
+    "title": "Ace Ventura",
+    "year": 1994,
+    "genre": "comédia",
+    "duration": 86,
+    "rating": 6.9
+  },
+  {
+    "id": 38,
+    "title": "Click",
+    "year": 2006,
+    "genre": "comédia",
+    "duration": 107,
+    "rating": 6.4
+  },
+  {
+    "id": 39,
+    "title": "Gente Grande",
+    "year": 2010,
+    "genre": "comédia",
+    "duration": 102,
+    "rating": 6.0
+  },
+  {
+    "id": 40,
+    "title": "Escola de Rock",
+    "year": 2003,
+    "genre": "comédia",
+    "duration": 109,
+    "rating": 7.2
+  },
+  {
+    "id": 41,
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "romance",
+    "duration": 128,
+    "rating": 8.0
+  },
+  {
+    "id": 42,
+    "title": "Diário de uma Paixão",
+    "year": 2004,
+    "genre": "romance",
+    "duration": 123,
+    "rating": 7.8
+  },
+  {
+    "id": 43,
+    "title": "Orgulho e Preconceito",
+    "year": 2005,
+    "genre": "romance",
+    "duration": 129,
+    "rating": 7.8
+  },
+  {
+    "id": 44,
+    "title": "Simplesmente Amor",
+    "year": 2003,
+    "genre": "romance",
+    "duration": 135,
+    "rating": 7.6
+  },
+  {
+    "id": 45,
+    "title": "Como Eu Era Antes de Você",
+    "year": 2016,
+    "genre": "romance",
+    "duration": 106,
+    "rating": 7.4
+  },
+  {
+    "id": 46,
+    "title": "500 Dias com Ela",
+    "year": 2009,
+    "genre": "romance",
+    "duration": 95,
+    "rating": 7.7
+  },
+  {
+    "id": 47,
+    "title": "Questão de Tempo",
+    "year": 2013,
+    "genre": "romance",
+    "duration": 123,
+    "rating": 7.8
+  },
+  {
+    "id": 48,
+    "title": "Antes do Amanhecer",
+    "year": 1995,
+    "genre": "romance",
+    "duration": 101,
+    "rating": 8.1
+  },
+  {
+    "id": 49,
+    "title": "Eterno Brilho de uma Mente sem Lembranças",
+    "year": 2004,
+    "genre": "romance",
+    "duration": 108,
+    "rating": 8.3
+  },
+  {
+    "id": 50,
+    "title": "A Culpa é das Estrelas",
+    "year": 2014,
+    "genre": "romance",
+    "duration": 126,
+    "rating": 7.7
+  },
+  {
+    "id": 51,
+    "title": "Mad Max: Estrada da Fúria",
+    "year": 2015,
+    "genre": "ação",
+    "duration": 120,
+    "rating": 8.1
+  },
+  {
+    "id": 52,
+    "title": "John Wick",
+    "year": 2014,
+    "genre": "ação",
+    "duration": 101,
+    "rating": 7.4
+  },
+  {
+    "id": 53,
+    "title": "Duro de Matar",
+    "year": 1988,
+    "genre": "ação",
+    "duration": 132,
+    "rating": 8.2
+  },
+  {
+    "id": 54,
+    "title": "Missão Impossível",
+    "year": 1996,
+    "genre": "ação",
+    "duration": 110,
+    "rating": 7.2
+  },
+  {
+    "id": 55,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genre": "ação",
+    "duration": 130,
+    "rating": 8.2
+  },
+  {
+    "id": 56,
+    "title": "Bastardos Inglórios",
+    "year": 2009,
+    "genre": "ação",
+    "duration": 153,
+    "rating": 8.4
+  },
+  {
+    "id": 57,
+    "title": "Kill Bill: Volume 1",
+    "year": 2003,
+    "genre": "ação",
+    "duration": 111,
+    "rating": 8.2
+  },
+  {
+    "id": 58,
+    "title": "Velozes e Furiosos 5",
+    "year": 2011,
+    "genre": "ação",
+    "duration": 130,
+    "rating": 7.3
+  },
+  {
+    "id": 59,
+    "title": "Homem-Aranha: Sem Volta para Casa",
+    "year": 2021,
+    "genre": "ação",
+    "duration": 148,
+    "rating": 8.2
+  },
+  {
+    "id": 60,
+    "title": "Batman: O Cavaleiro das Trevas",
+    "year": 2008,
+    "genre": "ação",
+    "duration": 152,
+    "rating": 9.0
+  },
+  {
+    "id": 61,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genre": "ficção científica",
+    "duration": 164,
+    "rating": 8.0
+  },
+  {
+    "id": 62,
+    "title": "Duna",
+    "year": 2021,
+    "genre": "ficção científica",
+    "duration": 155,
+    "rating": 8.0
+  },
+  {
+    "id": 63,
+    "title": "Chegada",
+    "year": 2016,
+    "genre": "ficção científica",
+    "duration": 116,
+    "rating": 7.9
+  },
+  {
+    "id": 64,
+    "title": "Ex Machina",
+    "year": 2014,
+    "genre": "ficção científica",
+    "duration": 108,
+    "rating": 7.7
+  },
+  {
+    "id": 65,
+    "title": "Distrito 9",
+    "year": 2009,
+    "genre": "ficção científica",
+    "duration": 112,
+    "rating": 7.9
+  },
+  {
+    "id": 66,
+    "title": "Ela",
+    "year": 2013,
+    "genre": "ficção científica",
+    "duration": 126,
+    "rating": 8.0
+  },
+  {
+    "id": 67,
+    "title": "Gravidade",
+    "year": 2013,
+    "genre": "ficção científica",
+    "duration": 91,
+    "rating": 7.7
+  },
+  {
+    "id": 68,
+    "title": "Perdido em Marte",
+    "year": 2015,
+    "genre": "ficção científica",
+    "duration": 144,
+    "rating": 8.0
+  },
+  {
+    "id": 69,
+    "title": "2001: Uma Odisseia no Espaço",
+    "year": 1968,
+    "genre": "ficção científica",
+    "duration": 149,
+    "rating": 8.3
+  },
+  {
+    "id": 70,
+    "title": "Exterminador do Futuro 2",
+    "year": 1991,
+    "genre": "ficção científica",
+    "duration": 137,
+    "rating": 8.6
+  },
+  {
+    "id": 71,
+    "title": "Divertida Mente",
+    "year": 2015,
+    "genre": "animação",
+    "duration": 95,
+    "rating": 8.1
+  },
+  {
+    "id": 72,
+    "title": "Up: Altas Aventuras",
+    "year": 2009,
+    "genre": "animação",
+    "duration": 96,
+    "rating": 8.3
+  },
+  {
+    "id": 73,
+    "title": "Wall-E",
+    "year": 2008,
+    "genre": "animação",
+    "duration": 98,
+    "rating": 8.4
+  },
+  {
+    "id": 74,
+    "title": "Procurando Nemo",
+    "year": 2003,
+    "genre": "animação",
+    "duration": 100,
+    "rating": 8.2
+  },
+  {
+    "id": 75,
+    "title": "Shrek",
+    "year": 2001,
+    "genre": "animação",
+    "duration": 90,
+    "rating": 7.9
+  },
+  {
+    "id": 76,
+    "title": "A Viagem de Chihiro",
+    "year": 2001,
+    "genre": "animação",
+    "duration": 125,
+    "rating": 8.6
+  },
+  {
+    "id": 77,
+    "title": "Meu Amigo Totoro",
+    "year": 1988,
+    "genre": "animação",
+    "duration": 86,
+    "rating": 8.1
+  },
+  {
+    "id": 78,
+    "title": "Homem-Aranha no Aranhaverso",
+    "year": 2018,
+    "genre": "animação",
+    "duration": 117,
+    "rating": 8.4
+  },
+  {
+    "id": 79,
+    "title": "Coco",
+    "year": 2017,
+    "genre": "animação",
+    "duration": 105,
+    "rating": 8.4
+  },
+  {
+    "id": 80,
+    "title": "Encanto",
+    "year": 2021,
+    "genre": "animação",
+    "duration": 102,
+    "rating": 7.2
+  },
+  {
+    "id": 81,
+    "title": "Seven: Os Sete Crimes Capitais",
+    "year": 1995,
+    "genre": "suspense",
+    "duration": 127,
+    "rating": 8.6
+  },
+  {
+    "id": 82,
+    "title": "Garota Exemplar",
+    "year": 2014,
+    "genre": "suspense",
+    "duration": 149,
+    "rating": 8.1
+  },
+  {
+    "id": 83,
+    "title": "Ilha do Medo",
+    "year": 2010,
+    "genre": "suspense",
+    "duration": 138,
+    "rating": 8.2
+  },
+  {
+    "id": 84,
+    "title": "Os Suspeitos",
+    "year": 2013,
+    "genre": "suspense",
+    "duration": 153,
+    "rating": 8.1
+  },
+  {
+    "id": 85,
+    "title": "Zodíaco",
+    "year": 2007,
+    "genre": "suspense",
+    "duration": 157,
+    "rating": 7.7
+  },
+  {
+    "id": 86,
+    "title": "O Sexto Sentido",
+    "year": 1999,
+    "genre": "suspense",
+    "duration": 107,
+    "rating": 8.2
+  },
+  {
+    "id": 87,
+    "title": "Memento",
+    "year": 2000,
+    "genre": "suspense",
+    "duration": 113,
+    "rating": 8.4
+  },
+  {
+    "id": 88,
+    "title": "Oldboy",
+    "year": 2003,
+    "genre": "suspense",
+    "duration": 120,
+    "rating": 8.4
+  },
+  {
+    "id": 89,
+    "title": "Entre Facas e Segredos",
+    "year": 2019,
+    "genre": "suspense",
+    "duration": 130,
+    "rating": 7.9
+  },
+  {
+    "id": 90,
+    "title": "Fragmentado",
+    "year": 2016,
+    "genre": "suspense",
+    "duration": 117,
+    "rating": 7.3
+  },
+  {
+    "id": 91,
+    "title": "Indiana Jones e os Caçadores da Arca Perdida",
+    "year": 1981,
+    "genre": "aventura",
+    "duration": 115,
+    "rating": 8.4
+  },
+  {
+    "id": 92,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "aventura",
+    "duration": 127,
+    "rating": 8.2
+  },
+  {
+    "id": 93,
+    "title": "Piratas do Caribe",
+    "year": 2003,
+    "genre": "aventura",
+    "duration": 143,
+    "rating": 8.1
+  },
+  {
+    "id": 94,
+    "title": "Jumanji: Bem-Vindo à Selva",
+    "year": 2017,
+    "genre": "aventura",
+    "duration": 119,
+    "rating": 6.9
+  },
+  {
+    "id": 95,
+    "title": "As Crônicas de Nárnia",
+    "year": 2005,
+    "genre": "aventura",
+    "duration": 143,
+    "rating": 6.9
+  },
+  {
+    "id": 96,
+    "title": "Harry Potter e a Pedra Filosofal",
+    "year": 2001,
+    "genre": "aventura",
+    "duration": 152,
+    "rating": 7.6
+  },
+  {
+    "id": 97,
+    "title": "O Hobbit: Uma Jornada Inesperada",
+    "year": 2012,
+    "genre": "aventura",
+    "duration": 169,
+    "rating": 7.8
+  },
+  {
+    "id": 98,
+    "title": "Tropa de Elite",
+    "year": 2007,
+    "genre": "crime",
+    "duration": 115,
+    "rating": 8.0
+  },
+  {
+    "id": 99,
+    "title": "O Lobo de Wall Street",
+    "year": 2013,
+    "genre": "crime",
+    "duration": 180,
+    "rating": 8.2
+  },
+  {
+    "id": 100,
+    "title": "Os Infiltrados",
+    "year": 2006,
+    "genre": "crime",
+    "duration": 151,
+    "rating": 8.5
+  }
+]
