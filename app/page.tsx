@@ -16,12 +16,14 @@ type Movie = {
   genre: string;
   duration: number;
   rating: number;
+  score?: number;
 };
 
 export default function Home() {
 
   const [users, setUsers] = useState<User[]>([])
   const [movies, setMovies] = useState<Movie[]>([]);
+  const [recommendations, setRecommendations] = useState<Movie[]>([])
   const workerRef = useRef<Worker | null>(null);
 
   useEffect(() => {
@@ -38,6 +40,10 @@ export default function Home() {
         setUsers(event.data.users)
         setMovies(event.data.movies)
       };
+
+      if (event.data.type === "RECOMMENDATIONS") {
+        setRecommendations(event.data.recommendations)
+      }
     };
 
     return () => {
@@ -45,6 +51,9 @@ export default function Home() {
     };
   }, []);
 
+  const moviesToShow = recommendations.length > 0
+    ? recommendations
+    : movies;
 
   return (
     <main className="min-h-screen bg-black text-white px-8 py-10">
@@ -58,6 +67,8 @@ export default function Home() {
           defaultValue=""
           onChange={(event) => {
             const userId = Number(event.target.value);
+
+            setRecommendations([]);
 
             workerRef.current?.postMessage({
               type: "SELECT_USER",
@@ -78,8 +89,12 @@ export default function Home() {
         </select>
       </div>
 
+      <h2 className="max-w-7xl text-2xl mx-auto text-center mb-10 mt-4 font-bold">
+        {recommendations.length > 0 ? "Recomendações para você!" : "Todos os filmes"}
+      </h2>
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-7xl mx-auto">
-        {movies.map((movie) => (
+        {moviesToShow.map((movie) => (
           <div
             key={movie.id}
             className="border border-zinc-800 bg-zinc-950 rounded-xl p-5"
